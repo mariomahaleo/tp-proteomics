@@ -130,7 +130,6 @@ La fonction `read_csv` accepte différents [arguments](https://pandas.pydata.org
 df = pandas.read_csv("data/TCL_wt1.tsv", sep="\t", na_values="#VALEUR!")
 df = df.dropna()
 ```
-```
 
 Quel est le type de l'objet `df`?
 ```
@@ -138,8 +137,17 @@ Donc df (DataFrame) est une table de données (comme un tableau Excel)
 ```
 
 ##### Descriptions d'une table de données
+
 Que permettent les méthodes suivantes?
+
 ###### df.shape
+
+
+
+
+
+
+
 ```
 Les dimensions de df (nombre de lignes, nombre de colonnes)
 ```
