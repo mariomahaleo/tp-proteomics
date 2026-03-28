@@ -142,12 +142,6 @@ Que permettent les méthodes suivantes?
 
 ###### df.shape
 
-
-
-
-
-
-
 ```
 Les dimensions de df (nombre de lignes, nombre de colonnes)
 ```

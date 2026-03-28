@@ -142,12 +142,6 @@ Que permettent les méthodes suivantes?
 
 ###### df.shape
 
-
-
-
-
-
-
 ```
 Les dimensions de df (nombre de lignes, nombre de colonnes)
 ```
@@ -399,10 +393,10 @@ Completer le tableau ci-dessous avec les quantités vous semblant adéquates pou
 
 | Symboles | Paramètres | Quantités Biologiques |
 | --- | --- | --- |
-| k | nombre de succès observés| |
-| K | nombre de succès possibles| |
-| n | nombre d'observations| |
-| N | nombre d'elements observables| |
+| k | nombre de succès observés| nombre de protéines surabondantes qui portent le terme GO étudié |
+| K | nombre de succès possibles| nombre total de protéines du protéome entier qui portent ce terme GO |
+| n | nombre d'observations| nombre total de protéines surabondantes |
+| N | nombre d'elements observables| nombre total de protéines du protéome de référence |
 
 #### 4. Calcul de l'enrichissement en fonctions biologiques
 
